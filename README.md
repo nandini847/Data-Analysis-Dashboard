@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b60f074-e671-4757-accc-a7c7edfebf94)![image](https://github.com/user-attachments/assets/2db9f5cd-a33b-4093-93c6-6126620ec398)# Blinkit-Data-Analysis-Dashboard
+# Blinkit-Data-Analysis-Dashboard
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 ## Objective
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI's and visualizations in Power BI.
